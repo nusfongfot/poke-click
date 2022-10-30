@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poke-click/static/css/main.99c6ea56.css",
+    "main.js": "/poke-click/static/js/main.b0bc7c86.js",
+    "index.html": "/poke-click/index.html",
+    "main.99c6ea56.css.map": "/poke-click/static/css/main.99c6ea56.css.map",
+    "main.b0bc7c86.js.map": "/poke-click/static/js/main.b0bc7c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c6ea56.css",
+    "static/js/main.b0bc7c86.js"
+  ]
+}
